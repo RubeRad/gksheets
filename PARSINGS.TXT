@@ -1,0 +1,110 @@
+  UNDECLINED FORMS:
+      ADV   = ADVerb or adverb and particle combined
+      CONJ  = CONJunction or conjunctive particle
+      COND  = CONDitional particle or conjunction
+      PRT   = PaRTicle, disjunctive particle
+      PREP  = PREPosition
+      INJ   = INterJection
+      ARAM  = ARAMaic transliterated word (indeclinable)
+      HEB   = HEBrew transliterated word (indeclinable)
+      N-PRI = Indeclinable PRoper Noun
+      A-NUI = Indeclinable NUmeral (Adjective)
+      N-LI  = Indeclinable Letter (Noun)
+      N-OI  = Indeclinable Noun of Other type
+
+
+  DECLINED FORMS: prefix-case-number-gender-(suffix)
+
+    Prefixes:
+      N-    = Noun
+      A-    = Adjective
+      R-    = Relative pronoun
+      C-    = reCiprocal pronoun
+      D-    = Demonstrative pronoun
+      T-    = definite arTicle
+      K-    = correlative pronoun
+      I-    = Interrogative pronoun
+      X-    = indefinite pronoun
+      Q-    = correlative or interrogative pronoun
+      F-    = reFlexive pronoun (person 1,2,3 added)
+      S-    = poSsessive pronoun (person 1,2,3 added)
+      P-    = Personal pronoun (person 1,2,3 added)
+                (Note: 1st and 2nd personal pronouns have no gender)
+
+    Cases (5-case system only):
+      -N    = Nominative
+      -V    = Vocative
+      -G    = Genitive
+      -D    = Dative
+      -A    = Accusative
+
+    Number:                       Gender:
+      S     = Singular              M     = Masculine
+      P     = Plural                F     = Feminine
+                                    N     = Neuter
+    Suffixes:
+      -S    = Superlative (used primarily with adjectives and some adverbs)
+      -C    = Comparative (used primarily with adjectives and some adverbs)
+      -ABB  = ABBreviated form (used only with the number 666)
+      -I    = Interrogative
+      -N    = Negative (used with some particles, adverbs, adjectives,
+                 and conjunctions)
+      -K    = "Kai" (CONJ), second person personal pronoun "su", or neuter
+                 definite article "to" merged by crasis with a second word;
+                 declension is that of the second word.
+      -ATT  = ATTic Greek form
+
+
+
+
+  All Greek verbs are listed in one of three various forms:
+
+       1) V-tense-voice-mood
+       2) V-tense-voice-mood-person-number
+       3) V-tense-voice-mood-case-number-gender
+
+  The abbreviations which pertain to each of these categories are the
+  following:
+
+    Tense: P          = Present
+           I          = Imperfect
+           F          = Future             Second Future     = 2F
+           A          = Aorist             Second Aorist     = 2A
+           R          = peRfect            Second peRfect    = 2R
+           L          = pLuperfect         Second pLuperfect = 2L
+
+    Voice: A          = Active
+           M          = Middle
+           P          = Passive
+           E          = Either middle or passive
+           D          = middle Deponent
+           O          = passive depOnent
+           N          = middle or passive depoNent
+
+    Mood:  I          = Indicative
+           S          = Subjunctive
+           O          = Optative
+           M          = iMperative
+           N          = iNfinitive
+           P          = Participle
+
+    Extra: -ATT       = Attic Greek form
+
+    Person: 1, 2, 3   = First, Second, Third person
+
+    Number: S, P      = Singular, Plural
+
+    Gender: M, F, N   = Masculine, Feminine, Neuter
+
+    Case:  N          = Nominative      (5-case system only!)
+           G          = Genitive
+           D          = Dative
+           A          = Accusative
+           V          = Vocative
+
+
+    SPECIAL NOTE: the so-called "Second" forms of the Aorist, Future,
+    Perfect and Pluperfect are respectively designated as 2A, 2F, 2P
+    and 2L, preceding the voice and mood designations. Functionally,
+    these forms are equivalent to the undesignated (First) Aorist,
+    Future, Perfect, and Pluperfect forms.
