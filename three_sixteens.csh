@@ -23,4 +23,4 @@ worksheet.pl 3:16 3:17 RE.BP5  > rev.3.16.html
 
 multi -r htm2tex.pl html tex *.*.*.html
 
-multi pdflatex tex log *.tex
+multi -1 pdflatex tex *.tex

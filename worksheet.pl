@@ -67,6 +67,7 @@ sub getBlb {
     $http = new HTTP::Lite;
     $req = $http->request($url);
     $html = $http->body();
+    mkdir('strongs') unless -d 'strongs';
     open HTML, ">strongs/blb$strong.html";
     print HTML $html;
     close HTML;
